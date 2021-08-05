@@ -1,0 +1,4 @@
+pyaudio
+websocket-client
+ibm-watson
+jmespath
